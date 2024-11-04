@@ -15,7 +15,8 @@ It will:
 - List all files in the specified folder.
 - Check each file name for duplicates based on the presence of numbers in parentheses.
 - Delete any identified duplicate files.
-#### Example
+  
+Example:
 To use the script, replace the "folder_path" variable with the path to your desired Google Drive folder containing duplicate files. The script will automatically handle the rest.
 
 ### Note
